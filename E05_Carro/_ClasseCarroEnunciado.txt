@@ -1,0 +1,21 @@
+Propriedades
+	Marca: uma enumeração de 3 marcas 
+	Modelo: uma enumeração de 6 modelos 
+	Cor: uma enumeração de 5 cores
+	Matricula
+	Cilindrada
+	Velocidade
+
+Construtores
+	1. O default com tudo vazio e a zero
+	2. Um carro que receba os parâmetros de entrada
+
+Métodos
+	Criar: criar o carro pedindo os valores ao user
+	Parar: velocidade passa a zero
+	Acelerar: incrementa a velocidade com o valor de aceleração
+	Desacelerar: decrementa a velocidade com o valor de desaceleração
+
+(implementar depois)
+Destrutor
+	Diz que o carro vai para a sucata
